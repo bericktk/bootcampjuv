@@ -11,10 +11,10 @@ Este repositório contém o código-fonte da página de cadastro da plataforma D
 ## Formulário de Cadastro
 A página de cadastro permite que novos usuários se registrem na plataforma DevConnect. O formulário solicita as seguintes informações:
 
-Nome
-E-mail
-Senha
-Confirmação de Senha
+- Nome
+- E-mail
+- Senha
+- Confirmação de Senha
 
 ## Como executar
 Abra o arquivo index.html em um navegador web.
